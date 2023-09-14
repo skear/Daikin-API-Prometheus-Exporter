@@ -27,3 +27,5 @@ If you want to change the web server port the exporter uses you can modify the w
 
 python daikin_prom_exporter.py
 
+If connectivity was successfull you should see the data on the local webserver (port 8000).
+http://127.0.0.1:8000
