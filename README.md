@@ -19,9 +19,9 @@ Enter the name of the application being integrated with the Daikin One Open API 
 # Usage
 Configure the following environmental variables on your system.
 
-DAIKIN_API_KEY <enter your API key>
-DAIKIN_API_TOKEN <enter API token>
-DAIKIN_API_EMAIL <enter email address used to log into Daikin app>
+DAIKIN_API_KEY (enter your API key)<br>
+DAIKIN_API_TOKEN (enter API token)<br>
+DAIKIN_API_EMAIL (enter email address used to log into Daikin app)<br>
 
 If you want to change the web server port the exporter uses you can modify the web_port variable in the script.
 
